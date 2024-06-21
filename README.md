@@ -1,3 +1,8 @@
+
+App where you can generate a roadmap of a tech stack you want to learn.
+The the app gives you github repos for every step in the roadmap.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
